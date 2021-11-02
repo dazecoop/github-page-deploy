@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "node scripts/gh-pages-deploy.js"
+  },
+  "devDependencies": {
+    "execa": "latest"
+  }
+}
